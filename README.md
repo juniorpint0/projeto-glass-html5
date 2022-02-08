@@ -1,2 +1,3 @@
-# projeto-glass-html5
- Projeto HTML/CSS de uma pagina do Google Glass
+# Pojeto HTML5/CSS
+
+ Projeto HTML/CSS de uma página do Google Glass.
